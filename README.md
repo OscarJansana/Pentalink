@@ -311,7 +311,7 @@ En general, es importante o necesario utilizarlo porque de esta forma facilitamo
 
 <br>Resumidamente, esto nos ayudará a que todo sea mas flexible, mantenible, modificable y con un portal más acccesible y fácil de usar.
 
-### ¿Qué utilizaremos com DNS?
+### ¿Qué utilizaremos con DNS?
 En nuestro caso para el servicio de DNS utilizaremos Pi-hole, que es un sistema de bloqueo de publicidad y rastreadores web, para encontrar documentaión oficial y explicaciones adicionales se puede encontrar en su 
 <a href="https://pi-hole.net/">sitio web oficial</a>.
 
