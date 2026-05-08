@@ -767,6 +767,13 @@ Durante la creación del portal tal y como se ha comentado en otras ocasiones ha
 
 La solución a esto fue empezar de 0 la organización utilizando los scripts que ya teníamos, pero reorganizándolos en carpetas, de esta forma era todavía más fácil y visual lo que debíamos revisar y donde, pero, esto ha generado conflicto con las rutas donde teníamos todo ya configurado en los scripts. lo que nos ha hecho tener que cambiarlos para que funcionen nuevamente de forma correcta.
 
+#### Incidencia 4 - Base de datos
+Durante la creción de la base de datos teníamos previsto utilizar MySQL como sistema gestor de base de datos para nuestro proyecto Pentalink. Sin embargo, al intentar instalarlo en nuestra máquina virtual con Debian 13, comprobamos que esto no era compatible, ya que Debian 13 ha reemplazado oficialmente MySQL por MariaDB como base de datos predeterminada.
+
+Esto se debe a que MariaDB es una bifurcación (fork) de MySQL creada por su desarrollador original, garantizando que sea 100% open source y sin dependencias corporativas de Oracle, por lo que hemos instalado MariaDB en su lugar. Lo bueno de haber escogido Debian 13 y MariaDB como servicio es que es totalmente cmopatible con MySQL, por lo que los comandos y consultas funcionan de igual forma y no se requiere ningún cambio como tal.
+
+Es por ello que tuvimos que hacer la transición de MySQL (junto con el script y la base de datos ya creada) a MariaDB, que, por suerte, como hemos comentado anteriormente al ser una bfurcación de MySQL tiene muchos comandos y cosas en común que nos han facilitado su implementación.
+
 </details>
 <details>
 <summary><h2>Conclusiones</h2></summary>
