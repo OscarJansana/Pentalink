@@ -775,8 +775,18 @@ Esto se debe a que MariaDB es una bifurcación (fork) de MySQL creada por su des
 Es por ello que tuvimos que hacer la transición de MySQL (junto con el script y la base de datos ya creada) a MariaDB, que, por suerte, como hemos comentado anteriormente al ser una bfurcación de MySQL tiene muchos comandos y cosas en común que nos han facilitado su implementación.
 
 </details>
+
+<details>
+<summary><h2>Demo</h2></summary>
+A continuación os mostramos una breve demostración en vídeo de como funciona la página.
+
+https://github.com/user-attachments/assets/ed1e2820-abac-46e4-ad51-cc46d70bff24
+
+</details>
 <details>
 <summary><h2>Conclusiones</h2></summary>
+Ahora que redactamos esto al final del proyecto, mirando hacia atrás, nos hemos dado cuenta de que hemos aprendido mucho a lo largo del camino con cosas como la maquetación con HTML/CSS, servicios con PHP, SQL, etc. Y con todo esto hemos podido ver con nuestros ojos como funciona una plataforma tan compleja como lo es una red social. Se ha requerido de mucha dedicación, esfuerzo y aprendizaje para poder lograr terminar este proyecto.
+
 </details>
 <details>
 <summary><h2>Bibliografía</h2></summary>
