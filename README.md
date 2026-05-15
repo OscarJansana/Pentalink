@@ -247,7 +247,7 @@ Hemos esquemado la base de datos de la web teniendo en cuenta cuatro tablas prin
 </details>
 
 <details>
-<summary><h2>Servicios</h2></summary>
+ <summary><h2>Servicios</h2></summary>
 
 Para este proyecto hemos decidido tener una máquina virtual como servidor principal y como servidor de copias de seguridad será otra máquina virtual que utilizará el softawre de TrueNAS.
 
@@ -598,7 +598,9 @@ Los archivos que copiamos son:
 Gracias a docker-compose.yml, podemos volver a desplegar todos los servicios con un simple comando, lo que nos facilita mucho la tarea de restauración en caso de que haya problemas con el sistema o la máquina virtual.
 
 <img width="1066" height="600" alt="image" src="https://github.com/user-attachments/assets/9cf2da80-1e13-4bc0-ad59-c1417f0be397" />
+
 </details>
+
 <details>
  <summary><h2>Plan de contingencia</h2></summary>
  
