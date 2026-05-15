@@ -600,6 +600,7 @@ Gracias a docker-compose.yml, podemos volver a desplegar todos los servicios con
 <img width="1066" height="600" alt="image" src="https://github.com/user-attachments/assets/9cf2da80-1e13-4bc0-ad59-c1417f0be397" />
 
 </details>
+</details>
 
 <details>
  <summary><h2>Plan de contingencia</h2></summary>
