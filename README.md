@@ -5,7 +5,7 @@
   * [Materiales necesarios (Hardware y software)](#materiales-necesarios-hardware-y-software)
   * [Red](#red)
   * [Web](#web)
-  * [Servicios](#servicios)
+  * [Servicios](#Servicios)
   * [Plan de contingencia](#plan-de-contingencia)
   * [Las incidencias](#las-incidencias)
   * [Conclusiones](#conclusiones)
