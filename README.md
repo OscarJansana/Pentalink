@@ -247,7 +247,7 @@ Hemos esquemado la base de datos de la web teniendo en cuenta cuatro tablas prin
 </details>
 
 <details>
-<summary><h2>Servicios</h2></summary>
+<summary><h2 id="servicios">Servicios</h2></summary>
 
 Para este proyecto hemos decidido tener una máquina virtual como servidor principal y como servidor de copias de seguridad será otra máquina virtual que utilizará el softawre de TrueNAS.
 
