@@ -247,7 +247,7 @@ Hemos esquemado la base de datos de la web teniendo en cuenta cuatro tablas prin
 </details>
 
 <details>
- <summary><h2>Servicios</h2></summary>
+<summary><h2>Servicios</h2></summary>
 
 Para este proyecto hemos decidido tener una máquina virtual como servidor principal y como servidor de copias de seguridad será otra máquina virtual que utilizará el softawre de TrueNAS.
 
@@ -784,6 +784,9 @@ Es por ello que tuvimos que hacer la transición de MySQL (junto con el script y
 A continuación os mostramos una breve demostración en vídeo de como funciona la página.
 
 https://github.com/user-attachments/assets/ed1e2820-abac-46e4-ad51-cc46d70bff24
+
+Y aquí tenéis la presentación completa que hicimos en nuestro instituto, el 11 de Mayo de 2026:
+
 
 </details>
 <details>
