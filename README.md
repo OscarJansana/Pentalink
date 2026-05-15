@@ -5,7 +5,7 @@
   * [Materiales necesarios (Hardware y software)](#materiales-necesarios-hardware-y-software)
   * [Red](#red)
   * [Web](#web)
-  * [Servicios](#Servicios)
+  * [Servicios](#servicios)
   * [Plan de contingencia](#plan-de-contingencia)
   * [Las incidencias](#las-incidencias)
   * [Conclusiones](#conclusiones)
@@ -245,6 +245,7 @@ Hemos esquemado la base de datos de la web teniendo en cuenta cuatro tablas prin
 <img width="785" height="605" alt="Esquema DB Workbench" src="https://github.com/user-attachments/assets/f766ac33-29ee-4ea1-8bef-f62b62bfafbd" />
 
 </details>
+
 <details>
 <summary><h2>Servicios</h2></summary>
 
